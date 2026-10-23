@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "SpirialisHelper",
+  "version": "1.0.8",
+  "mode": "local-rebuild",
+  "archive": {
+    "path": "SpirialisHelper.zip",
+    "sha256": "207daf679c760d99202323c5c4bcc6a67b0578873c2cb230d94c245ee55c4cc2",
+    "downloadUrl": "https://gamebanana.com/mmdl/965693",
+    "fileId": 965693
+  },
+  "originalAssembly": {
+    "entry": "Code/Spirialis.dll",
+    "sha256": "8d63cd30b5610dfd97820bbfc288f568297e94104484983a4333e4229363b9b0"
+  },
+  "license": "CC-BY-NC-ND-4.0",
+  "upstream": "https://gamebanana.com/mods/359411",
+  "recipe": "Recipe/recipe.json",
+  "assemblyName": "Celeste.Mods.SpirialisHelper",
+  "dependencies": [],
+  "decompileTypes": [
+    {
+      "name": "Celeste.Mod.Spirialis.BoostCapModifier",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/BoostCapModifier.cs",
+      "sha256": "9a48fcb4ce788513da9ff04fd8ee50ab9f1c9547ebd7815e0b8f8243355a45e2"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.BoostCapTrigger",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/BoostCapTrigger.cs",
+      "sha256": "6a5eb73845c44e3f18623606d3115fe23891a25b17c5fbb1cb9a72501b1e73c4"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.BoostPad",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/BoostPad.cs",
+      "sha256": "e4785e4433242d864bfbf87d222e2e296d9f67db2bee972a2c7b709addf896d4"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.DejankWallbounce",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/DejankWallbounce.cs",
+      "sha256": "a6d66fad3a0d32e741be39df7eae65e9e5d0b9b820d5eff3a6e195167ac88320"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.FixedLaunchSpring",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/FixedLaunchSpring.cs",
+      "sha256": "3d84f7d34f1acaf3fcec6f71ac0680e1a3b1f24c6339a673087b7adffecf52d9"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.FixedSpeedTrigger",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/FixedSpeedTrigger.cs",
+      "sha256": "31de1caaf4b750f49bc8f9df854b2904bd36841b29029e7424b18bece00db3c8"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.SpirialisSession",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/SpirialisSession.cs",
+      "sha256": "f48eb4b47dc1659216fae1c9bda22ed766cfdf6638da8068fd946a4e94049bb4"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.Stopwatch",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/Stopwatch.cs",
+      "sha256": "172c7b203f360253dd60f8a718953df9671bf8d11eac12d61dcbd2fabc94c216"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeFallingBlock",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeFallingBlock.cs",
+      "sha256": "95ab72a973f23f05c00348dfa05931982a4c6cf001922defb8115bfdeeae70c0"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeMoveBlock",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeMoveBlock.cs",
+      "sha256": "44bfd1beca29f81725193fc7e491a43eba48e05f256d6e2012ac280d0225613b"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeMovingPlatform",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeMovingPlatform.cs",
+      "sha256": "880d9c6dda97d290ad0f904455be01b6ee11425824a6d464e6e4e23e77860ab9"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeSwitchGate",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeSwitchGate.cs",
+      "sha256": "942707927a76b5c60c8283683679a87091c344bb83766ce60d12766bc30ee1ab"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeZipMover",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeZipMover.cs",
+      "sha256": "de18d0954f62efffd95c7da4c603b5bf92a8216a8267f6647e67776c27cbad1b"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.WaterfallSolid",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/WaterfallSolid.cs",
+      "sha256": "89a6bc3d12223ef93b4935e049f099655bffa50de994e0e64cbbd62482dfe942"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.RainBlocker",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/RainBlocker.cs",
+      "sha256": "5b57ede7b3e0545be25628146d0a3c2019cc18321179f399026e8cdcc08d4a9b"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.AuroraMoon",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/AuroraMoon.cs",
+      "sha256": "96ba83599f9677206d111ee8a782cb8f79c0a89fd4195e5cdcce1aef1bcb2626"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.ColoredAbsorbOrb",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/ColoredAbsorbOrb.cs",
+      "sha256": "9af234ea5a15c848975d66c8d156f5f8b76e1121ce9b963fb130c6d214866205"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.CustomRainBG",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/CustomRainBG.cs",
+      "sha256": "1e04b6cab796d722394adf3d96f866eab8d05ef20e892cdff69a63ea43c88711"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.GlowColors",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/GlowColors.cs",
+      "sha256": "e65d8232aec94fdebafc86575e2d2a93b061ca6dd85cfcdac4ea31a33f8f00a1"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.PlatformGlow",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/PlatformGlow.cs",
+      "sha256": "19c4968a684f8da230582681020d17dec8952a030ec5113140236b1019e21164"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.SpinnerGlow",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/SpinnerGlow.cs",
+      "sha256": "23a317ad83cce2cef32496697b17b8b98d4f06fa73e7bf1748cc3ba973212950"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeRotateSpinner",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeRotateSpinner.cs",
+      "sha256": "3df4a98b7ea81ca117ac66accf91d9bc76461aa0d2214b18ba1f47157c00b3ff"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.SpinnerType",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/SpinnerType.cs",
+      "sha256": "09c959a87b0d67852f34392bef47a5d7a7c9ac051150f914ed4694f838b42df0"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.HazardHooks",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/HazardHooks.cs",
+      "sha256": "29d7d4d71b4c37d5d1e89e88169c0180848c268b28f53bfd1b5baa434d63696c"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeGrabTrigger",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeGrabTrigger.cs",
+      "sha256": "6226e370e587aaf150aebf3895a910330148e6ffdc69fd6e4284abd8a580d4ca"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.StopType",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/StopType.cs",
+      "sha256": "8fc9976503b6b093d4bab2f107aa543765260a4763c0e42649534c76040b387a"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimePlayerSettings",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimePlayerSettings.cs",
+      "sha256": "d08aef261aefc7ec7132f1d4fa932b9417c90725102b7fff0b9354482d81f505"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeGameplayRenderer",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeGameplayRenderer.cs",
+      "sha256": "6e8db20d26e139fbb85db6af157f779cc910e08657abd4318f35061491f57687"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeController",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeController.cs",
+      "sha256": "852fa0ae0a4f0e74593bc90a6f4ea4ff1ff5859a414bdc16532ae6af0f06ba6d"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.RectangleGlow",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/RectangleGlow.cs",
+      "sha256": "0a032cd64f8faedba643e4d706fc6552a694685d747457a7bd51137080fc83e3"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.SpirialisModule",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/SpirialisModule.cs",
+      "sha256": "568947a2082c15af2d7222211acb0054ff0b66ced4033def4a1ebaa58eb40e39"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeKevin",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeKevin.cs",
+      "sha256": "2d8af6d2c1ee109ecaec603b4087083daa4d2113131a2ac97c3d9b31aaa3aeb6"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.TimeSwapBlock",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/TimeSwapBlock.cs",
+      "sha256": "5f2ad847afe72d08d84331d80b448ca46cd80c701953e4358ab101b575952893"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.StopBurst",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/StopBurst.cs",
+      "sha256": "30d879206e60a04568254e7be0b3c8346256c9d86295e2361ee4228d36fb4913"
+    },
+    {
+      "name": "Celeste.Mod.Spirialis.WaterFloatingObject",
+      "path": "SpirialisHelper/Celeste/Mod/Spirialis/WaterFloatingObject.cs",
+      "sha256": "0baf11ef2de3b3d1a70fb56f6f09126fe80f6c65c140ee66265759198478057f"
+    }
+  ]
+}
